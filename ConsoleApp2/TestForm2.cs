@@ -10,5 +10,9 @@ namespace ConsoleApp2
     {
         
 		//added new line in form2
+		
     }
+	public decimal divideFunc()
+	{
+	}
 }
